@@ -11,15 +11,28 @@ a
 	text-decoration:none;
 	color:black;
 }
-.col-sm-12.text-center p
+.text-center.hero-bloc-text.tc-white
+{
+    color:#ffb28f;
+}
+.text-center.mg-lg.tc-white.tight-width-whitespace
 {
     font-size: 1.5em;
+    color:#ffb28f;
 }
 .col-xs-12.col-md-8.col-md-offset-2.text-center p
 {
     font-size: 1.5em;
 }
-
+.biggerP
+{
+    font-size: 1.5em;
+}
+.REALH1
+{
+    text-align: center;
+    color:#ffb28f;
+}
 a,
 button {
     transition: all .3s ease-in-out;

@@ -448,6 +448,7 @@ nav .caret {
 
 .btn {
     margin: 0 5px 5px 0;
+    color:#000;
 }
 
 .btn.pull-right {
@@ -457,7 +458,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: #000;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -690,10 +691,13 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
-
+.btn .btn-atomic-tangerine .btn-clean .btn-rd .btn-lg cta-hero
+{
+    color: #000;
+}
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -737,7 +741,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .portfolio-thumb {
@@ -781,16 +785,16 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .ltc-white:hover {
